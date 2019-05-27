@@ -1,0 +1,125 @@
+
+Mudanças iniciaram em 2019-05-26 10:07:14.558875.
+Valor original: None.
+Valor final: {'nome': 'Carlos', 'segredo': 'flmjiarpkl'}.
+Mudanças finalizaram em 2019-05-26 10:07:14.740293.
+
+Mudanças iniciaram em 2019-05-26 10:39:23.765030.
+Valor original: None.
+Valor final: {'id': None, 'nome': 'cferreira', 'segredo': 'odufvrblje'}.
+Mudanças finalizaram em 2019-05-26 10:39:23.908877.
+
+Mudanças iniciaram em 2019-05-26 13:26:22.499064.
+Valor original: None.
+Valor final: {'id': None, 'nome': 'Calebe', 'segredo': 'dmumfsmtpz'}.
+Mudanças finalizaram em 2019-05-26 13:26:22.731648.
+
+Mudanças iniciaram em 2019-05-26 13:28:09.796362.
+Valor original: None.
+Valor final: {'id': None, 'nome': 'Edi', 'segredo': 'djcukyygop'}.
+Mudanças finalizaram em 2019-05-26 13:28:09.924022.
+
+Mudanças iniciaram em 2019-05-26 13:45:59.862411.
+Valor original: None.
+Valor final: {'datetime': '2019-05-26T13:45:59+00:00', 'id': 1, 'id_destinatario': 2, 'id_remetente': 1, 'texto': 'Olá, tudo bem?'}.
+Mudanças finalizaram em 2019-05-26 13:46:00.132539.
+
+Mudanças iniciaram em 2019-05-26 13:46:38.021755.
+Valor original: None.
+Valor final: {'datetime': '2019-05-26T13:46:38+00:00', 'id': 2, 'id_destinatario': 2, 'id_remetente': 1, 'texto': 'Olá, tudo bem?'}.
+Mudanças finalizaram em 2019-05-26 13:46:38.231440.
+
+Mudanças iniciaram em 2019-05-26 13:48:35.841915.
+Valor original: None.
+Valor final: {'datetime': '2019-05-26T13:48:35+00:00', 'id': 3, 'id_destinatario': 2, 'id_remetente': 1, 'texto': 'Olá, tudo bem?'}.
+Mudanças finalizaram em 2019-05-26 13:48:36.011969.
+
+Mudanças iniciaram em 2019-05-26 13:49:40.440328.
+Valor original: None.
+Valor final: {'id': None, 'nome': 'Calebe', 'segredo': 'mhntiaaaoi'}.
+Mudanças finalizaram em 2019-05-26 13:49:40.593267.
+
+Mudanças iniciaram em 2019-05-26 13:49:58.274761.
+Valor original: None.
+Valor final: {'id': None, 'nome': 'Edi', 'segredo': 'hkdsqxxyca'}.
+Mudanças finalizaram em 2019-05-26 13:49:58.563187.
+
+Mudanças iniciaram em 2019-05-26 13:51:33.989463.
+Valor original: None.
+Valor final: {'datetime': '2019-05-26T13:51:33+00:00', 'id': 1, 'id_destinatario': 2, 'id_remetente': 1, 'texto': 'Olá, tudo bem?'}.
+Mudanças finalizaram em 2019-05-26 13:51:34.220281.
+
+Mudanças iniciaram em 2019-05-26 16:48:55.413339.
+Valor original: None.
+Valor final: {'id': None, 'nome': 'André', 'segredo': 'zdxspvhvfb'}.
+Mudanças finalizaram em 2019-05-26 16:48:55.718949.
+
+Mudanças iniciaram em 2019-05-26 16:49:58.039988.
+Valor original: None.
+Valor final: {'id': None, 'nome': 'Carvalho', 'segredo': 'upjrysidvt'}.
+Mudanças finalizaram em 2019-05-26 16:49:58.169845.
+
+Mudanças iniciaram em 2019-05-26 16:51:40.969881.
+Valor original: None.
+Valor final: {'id': None, 'nome': 'Vinicius', 'segredo': 'rnkejnqyvi'}.
+Mudanças finalizaram em 2019-05-26 16:51:41.076851.
+
+Mudanças iniciaram em 2019-05-26 16:54:26.672462.
+Valor original: None.
+Valor final: {'id': None, 'nome': 'Shadow Moon', 'segredo': 'ouiqxkwbeu'}.
+Mudanças finalizaram em 2019-05-26 16:54:26.808174.
+
+Mudanças iniciaram em 2019-05-26 17:00:06.737801.
+Valor original: None.
+Valor final: {'datetime': '2019-05-26T17:00:01+00:00', 'id': 2, 'id_destinatario': 'Calebe', 'id_remetente': 'Shadow Moon', 'texto': 'Coé star, atende o rádio ai!'}.
+Mudanças finalizaram em 2019-05-26 17:00:06.922957.
+
+Mudanças iniciaram em 2019-05-26 17:07:47.693732.
+Valor original: None.
+Valor final: {'datetime': '2019-05-26T17:07:47+00:00', 'id': 3, 'id_destinatario': 'Calebe', 'id_remetente': 'Shadow Moon', 'texto': 'Coé star, atende o rádio ai!'}.
+Mudanças finalizaram em 2019-05-26 17:07:47.862955.
+
+Mudanças iniciaram em 2019-05-26 17:26:40.368950.
+Valor original: None.
+Valor final: {'datetime': '2019-05-26T17:26:40+00:00', 'id': 5, 'id_destinatario': 1, 'id_remetente': 6, 'texto': 'Coé star, atende o rádio ai!'}.
+Mudanças finalizaram em 2019-05-26 17:26:40.552722.
+
+Mudanças iniciaram em 2019-05-26 17:28:17.736401.
+Valor original: None.
+Valor final: {'datetime': '2019-05-26T17:28:17+00:00', 'id': 6, 'id_destinatario': 1, 'id_remetente': 6, 'texto': 'Coé star, atende o rádio ai!'}.
+Mudanças finalizaram em 2019-05-26 17:28:17.884414.
+
+Mudanças iniciaram em 2019-05-26 17:29:53.995122.
+Valor original: None.
+Valor final: {'datetime': '2019-05-26T17:29:53+00:00', 'id': 7, 'id_destinatario': 1, 'id_remetente': 6, 'texto': 'Coé !'}.
+Mudanças finalizaram em 2019-05-26 17:29:54.163755.
+
+Mudanças iniciaram em 2019-05-26 19:25:12.205134.
+Valor original: None.
+Valor final: {'id': None, 'nome': 'Calebe', 'segredo': 'hzkxsnvqzp'}.
+Mudanças finalizaram em 2019-05-26 19:25:12.440020.
+
+Mudanças iniciaram em 2019-05-26 19:25:19.673830.
+Valor original: None.
+Valor final: {'id': None, 'nome': 'Edi', 'segredo': 'ssrfjirhmi'}.
+Mudanças finalizaram em 2019-05-26 19:25:19.781605.
+
+Mudanças iniciaram em 2019-05-26 19:35:03.462498.
+Valor original: None.
+Valor final: {'datetime': '2019-05-26T19:35:03+00:00', 'id': 1, 'id_destinatario': 2, 'id_remetente': 1, 'texto': 'Olá, boa tarde!'}.
+Mudanças finalizaram em 2019-05-26 19:35:03.614233.
+
+Mudanças iniciaram em 2019-05-26 19:39:33.413620.
+Valor original: None.
+Valor final: {'datetime': '2019-05-26T19:39:33+00:00', 'id': 2, 'id_destinatario': 2, 'id_remetente': 1, 'texto': 'Olá, boa noite!'}.
+Mudanças finalizaram em 2019-05-26 19:39:33.520575.
+
+Mudanças iniciaram em 2019-05-26 22:48:48.660362.
+Valor original: None.
+Valor final: {'datetime': '2019-05-26T22:48:48+00:00', 'id': 3, 'id_destinatario': 1, 'id_remetente': 2, 'texto': 'Olá, bom dia!'}.
+Mudanças finalizaram em 2019-05-26 22:48:48.940013.
+
+Mudanças iniciaram em 2019-05-26 22:49:33.094147.
+Valor original: None.
+Valor final: {'datetime': '2019-05-26T22:49:33+00:00', 'id': 4, 'id_destinatario': 1, 'id_remetente': 2, 'texto': 'Tudo bem?'}.
+Mudanças finalizaram em 2019-05-26 22:49:33.246246.
